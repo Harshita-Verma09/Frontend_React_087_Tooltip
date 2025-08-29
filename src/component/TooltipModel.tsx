@@ -5,7 +5,7 @@ import styles from "./Tooltip.module.css";
 
 interface IconProps {
   id: string;
-  icon: React.ReactNode; // SVG or JSX element
+  icon: React.ReactNode;
   tooltip: string;
 }
 
